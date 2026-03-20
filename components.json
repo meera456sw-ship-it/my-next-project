@@ -1,0 +1,14 @@
+{
+  "shadcn/ui": {
+    "component1": {
+      "style": "default",
+      "props": {}
+    },
+    "component2": {
+      "style": "custom",
+      "props": {
+        "size": "large"
+      }
+    }
+  }
+}
