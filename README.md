@@ -1,24 +1,26 @@
-# My Next Project
+# My Next.js 16 Project
 
-## Project Documentation
+A modern, production-ready web application built with:
 
-### Introduction
-This is a documentation for my next project.
+- **Next.js 16.2.0** - React framework
+- **React 19.2.4** - Latest React features
+- **Tailwind CSS 4.2.0** - Utility-first CSS
+- **TypeScript 5.7.3** - Type safety
+- **shadcn/ui** - Reusable components
+- **Zod** - Schema validation
+- **React Hook Form** - Form management
 
-### Features
-- Feature 1
-- Feature 2
-- Feature 3
+## Getting Started
+
+### Prerequisites
+- Node.js 20+ or greater
+- pnpm (recommended) or npm
 
 ### Installation
-1. Step 1
-2. Step 2
 
-### Usage
-- How to use the project
+```bash
+# Install dependencies
+pnpm install
 
-### Contributing
-- Guidelines for contributing to the project
-
-### License
-This project is licensed under the MIT License.
+# Run development server
+pnpm run dev
